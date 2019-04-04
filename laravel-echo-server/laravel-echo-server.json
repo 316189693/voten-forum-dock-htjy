@@ -1,0 +1,24 @@
+{
+	"authHost": "forum-dev.unisco.com",
+	"authEndpoint": "/broadcasting/auth",
+	"clients": [
+		{
+			"appId": "e7a982c63b2fefb7",
+			"key": "528663a604c85b6eeaffdc139de3825d"
+		}
+	],
+	"database": "redis",
+	"databaseConfig": {
+		"redis": {
+			"port": "6379",
+			"host": "http://forum-dev.unisco.com"
+		}
+	},
+	"devMode": true,
+	"host": null,
+	"port": "6001",
+	"protocol": "http",
+	"socketio": {},
+	"sslCertPath": "",
+	"sslKeyPath": ""
+}
